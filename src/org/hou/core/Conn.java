@@ -12,4 +12,5 @@ package org.hou.core;
 public class Conn {
 
     private String kurupuk;
+    private String rangu;
 }

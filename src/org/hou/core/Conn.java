@@ -14,4 +14,5 @@ public class Conn {
     private String kurupuk;
     private String rangu;
     private String hitut;
+    private String bau;
 }

@@ -10,5 +10,6 @@ package org.hou.core;
  * @author harkat
  */
 public class Conn {
-    
+
+    private String kurupuk;
 }

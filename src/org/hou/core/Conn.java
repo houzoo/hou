@@ -17,4 +17,5 @@ public class Conn {
     private String shalat;
     private String huhu;
     private String iphone;
+    private String apple;
 }

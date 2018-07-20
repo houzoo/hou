@@ -16,4 +16,5 @@ public class Conn {
     private String bau;
     private String shalat;
     private String huhu;
+    private String iphone;
 }
